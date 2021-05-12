@@ -1,11 +1,10 @@
 package demos;
 
 public class TestCase3 {
-	public static void main(String[] args) 
-	{
-		
-		System.out.println("This is TestCase3");
 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Testcase 3 ");
 	}
 
 }
